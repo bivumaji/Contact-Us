@@ -1,4 +1,3 @@
 # contact-us
 
-This is an Contact Us page. Which has been created using HTML and CSS.
-
+This is a responsive contact us page. Which is created using HTML and CSS.
